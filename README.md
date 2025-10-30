@@ -1,0 +1,1 @@
+# BK_XSTK_Group1_ConcreteStrength
