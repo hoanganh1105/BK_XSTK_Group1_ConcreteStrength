@@ -1,0 +1,4 @@
+           cement              slag               ash             water      superplastic         coarseagg           fineagg               age ti_le_nuoc_ximang 
+        12.745570          7.937486          6.485072          7.453768          2.989320          5.102453          7.013471          1.556631          7.121549 
+     log_strength 
+         2.363307 

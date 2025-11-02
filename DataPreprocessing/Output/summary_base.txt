@@ -1,0 +1,14 @@
+     cement           slag            ash             water        superplastic      coarseagg         fineagg           age            strength     ti_le_nuoc_ximang
+ Min.   :102.0   Min.   :  0.0   Min.   :  0.00   Min.   :121.8   Min.   : 0.000   Min.   : 801.0   Min.   :594.0   Min.   :  1.00   Min.   : 2.33   Min.   :0.2670   
+ 1st Qu.:192.4   1st Qu.:  0.0   1st Qu.:  0.00   1st Qu.:164.9   1st Qu.: 0.000   1st Qu.: 932.0   1st Qu.:731.0   1st Qu.:  7.00   1st Qu.:23.71   1st Qu.:0.5330   
+ Median :272.9   Median : 22.0   Median :  0.00   Median :185.0   Median : 6.400   Median : 968.0   Median :779.5   Median : 28.00   Median :34.45   Median :0.6755   
+ Mean   :281.2   Mean   : 73.9   Mean   : 54.19   Mean   :181.6   Mean   : 6.205   Mean   : 972.9   Mean   :773.6   Mean   : 45.66   Mean   :35.82   Mean   :0.7483   
+ 3rd Qu.:350.0   3rd Qu.:142.9   3rd Qu.:118.30   3rd Qu.:192.0   3rd Qu.:10.200   3rd Qu.:1029.4   3rd Qu.:824.0   3rd Qu.: 56.00   3rd Qu.:46.13   3rd Qu.:0.9350   
+ Max.   :540.0   Max.   :359.4   Max.   :200.10   Max.   :247.0   Max.   :32.200   Max.   :1145.0   Max.   :992.6   Max.   :365.00   Max.   :82.60   Max.   :1.8820   
+  log_strength  
+ Min.   :1.203  
+ 1st Qu.:3.207  
+ Median :3.568  
+ Mean   :3.485  
+ 3rd Qu.:3.853  
+ Max.   :4.426  
