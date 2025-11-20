@@ -68,11 +68,8 @@ if ("id" %in% names(data)) data$id <- NULL
 # 10. --- Biến log-strength ---
 if ("strength" %in% names(data)) data$log_strength <- log1p(data$strength)
 
-# 11. --- Chuẩn hóa dữ liệu số ---
-data_scaled <- as.data.frame(scale(dplyr::select_if(data, is.numeric)))
 
 # 12. --- Xuất file ---
 write.csv(data, "D:\\HCMUT\\Probability and Stastistics\\Assignment\\Output\\data_cleaned.csv", row.names = FALSE)
-write.csv(data_scaled, "D:\\HCMUT\\Probability and Stastistics\\Assignment\\Output\\data_scaled.csv", row.names = FALSE)
 
 cat("\n✅ Hoàn tất tiền xử lý dữ liệu. 2 biến chiến lược đã thêm vào.\n")
